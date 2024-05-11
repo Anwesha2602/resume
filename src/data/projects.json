@@ -1,0 +1,26 @@
+[
+    {
+      "title": "Little Lemon",
+      "imageSrc": "projects/project1.jpeg",
+      "description": "A restaurant booking site madewith django and connected with mySQL.",
+      "skills": ["HTML/CSS", "Django","mySQL"],
+      "demo": "https://anwesha.pythonanywhere.com/",
+      "source": "https://github.com/Anwesha2602/MyCafe"
+    },
+    {
+      "title": "Sign Up Page",
+      "imageSrc": "projects/project2.jpg",
+      "description": "A login page using django with email verification system.",
+      "skills": ["HTML/CSS", "JavaScript","Django"],
+      "demo": "https://drive.google.com/file/d/1Z4-R-xAzWhAF4kYAxuht8TMjuiemcxYS/view?usp=drive_link",
+      "source": "https://github.com/Anwesha2602/Django_Login/"
+    },
+    {
+      "title": "Create Your Meme",
+      "imageSrc": "projects/project.png",
+      "description": "A meme page using React styled with CSS.Use of API for fetching memes from external source.",
+      "skills": ["React","APIs","HTML/CSS"],
+      "demo": "https://65d041ff91a5a7437fec952d--boisterous-pothos-4eb295.netlify.app/",
+      "source": "https://github.com/Anwesha2602/Create-your-Meme.git"
+    }
+  ]
